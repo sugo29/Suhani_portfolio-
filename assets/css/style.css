@@ -1041,6 +1041,9 @@ main {
   grid-template-columns: 1fr;
   gap: 20px;
 }
+.navbar-link {
+  text-transform: uppercase; /* or uppercase */
+}
 
 .blog-post-item > a {
   position: relative;
